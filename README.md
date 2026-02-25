@@ -18,7 +18,7 @@ Real-time terminal monitor for [Ollama](https://ollama.ai) on macOS.
 ### Homebrew (recommended)
 
 ```bash
-brew tap tobiasoberrauch/ollama-monitor
+brew tap tobiasoberrauch/tools
 brew install ollama-monitor
 ```
 
