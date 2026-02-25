@@ -2,7 +2,7 @@
 
 Real-time terminal monitor for [Ollama](https://ollama.ai) on macOS.
 
-![ollama-monitor screenshot](screenshot.png)
+<!-- Screenshot will be added after first release -->
 
 ## Features
 
